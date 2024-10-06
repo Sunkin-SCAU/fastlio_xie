@@ -1,5 +1,0 @@
-# generated from catkin/cmake/template/order_packages.context.py.in
-source_root_dir = '/home/xie/workspace/fastlio_handwriting/fastlio_xie/src'
-whitelisted_packages = ''.split(';') if '' != '' else []
-blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/xie/workspace/fast-livo_-reproduction-master/fast_livo_ws/devel;/home/xie/livox_ros_driver_ws/devel;/home/xie/workspace/move_base_ws/devel;/home/xie/workspace/nav_drone_files/nav_drone/devel;/home/xie/workspace/hk_camera_ws/devel;/home/xie/workspace/sensor_fusion_lesson/02-lidar-odometry-basic/devel;/home/xie/workspace/direct_visual_lidar_calibration_ws/devel;/opt/ros/noetic'.split(';') if '/home/xie/workspace/fast-livo_-reproduction-master/fast_livo_ws/devel;/home/xie/livox_ros_driver_ws/devel;/home/xie/workspace/move_base_ws/devel;/home/xie/workspace/nav_drone_files/nav_drone/devel;/home/xie/workspace/hk_camera_ws/devel;/home/xie/workspace/sensor_fusion_lesson/02-lidar-odometry-basic/devel;/home/xie/workspace/direct_visual_lidar_calibration_ws/devel;/opt/ros/noetic' != '' else []
