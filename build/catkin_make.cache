@@ -1,0 +1,2 @@
+ieskf_slam
+-DCATKIN_DEVEL_PREFIX=/home/xie/workspace/fastlio_handwriting/fastlio_xie/devel -DCMAKE_INSTALL_PREFIX=/home/xie/workspace/fastlio_handwriting/fastlio_xie/install -G Unix Makefiles
